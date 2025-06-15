@@ -1,4 +1,4 @@
-# Software Installations in Huawei Certified Cloud Developer Associate (HCCDA-AI)
+# Software Installations
 
 ## Installation of Python 3.13
 
